@@ -1,0 +1,27 @@
+{
+  "author": "Corno",
+  "bin": {},
+  "dependencies": {
+    "astn-parser-api": "^0.2.0",
+    "pareto-runtime": "^0.22.0"
+  },
+  "files": [
+    "dist",
+    "data"
+  ],
+  "keywords": [],
+  "main": "./dist/index.js",
+  "bugs": {
+    "url": "https://github.com/corno/astn/issues"
+  },
+  "description": "tokenizer for ASTN",
+  "homepage": "https://github.com/corno/astn#readme",
+  "license": "ISC",
+  "name": "astn-tokenizer-lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corno/astn-tokenizer-lib.git"
+  },
+  "types": "dist/index.d.ts",
+  "version": "0.0.0"
+}
