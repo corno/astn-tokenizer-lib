@@ -1,5 +1,3 @@
-export * from "./types/FormatInstruction"
-export * from "./interfaces/IFormatInstructionWriter"
 export * from "./types/Location"
 export * from "./types/Range"
 export * from "./types/TokenizerAnnotationData"
