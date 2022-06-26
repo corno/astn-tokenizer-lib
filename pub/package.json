@@ -2,7 +2,7 @@
   "author": "Corno",
   "bin": {},
   "dependencies": {
-    "astn-parser-api": "^0.2.0",
+    "astn-parser-api": "^0.2.1",
     "pareto-runtime": "^0.22.0"
   },
   "files": [
